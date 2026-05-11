@@ -5,6 +5,8 @@
  - GET / - 공개됨
  - GET /user - 로그인된 유저와 관리자만 접근 가능
  - GET /admin - 관리자만 접근 가능
+ - GET /login - 공개됨
+ - GET /logout - 공개됨
 
 하드코딩으로 계정을 추가해 두었다.
 ```
